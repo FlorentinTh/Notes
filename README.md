@@ -11,7 +11,7 @@ Notes is a simple Android application that let you take some notes or memos.
 * Share your notes with your favourite apps
 
 ### What does it look like ?
-[<img src="https://github.com/FlorentinTh/Notes/blob/master/scr01.png">]
+[<img src="https://raw.github.com/FlorentinTh/Notes/master/scr03.png">](scr01)
 ![img](https://github.com/FlorentinTh/Notes/blob/master/scr02.png)
 ![img](https://github.com/FlorentinTh/Notes/blob/master/scr03.png)
 
