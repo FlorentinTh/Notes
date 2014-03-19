@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="about_menu">À propos</string>
+    <string name="ajouter">Nouvelle note</string>
+    <string name="title_activity_add">Nouvelle Note</string>
+    <string name="titre">Titre</string>
+    <string name="note">Contenu de votre mémo</string>
+    <string name="creer">Créer</string>
+    <string name="title_activity_edit">Modifier Note</string>
+    <string name="editer">Modifier</string>
+    <string name="save">Enregistrer</string>
+    <string name="supprimer">Supprimer la note</string>
+    <string name="password">Password (optionnel)</string>
+    <string name="title_activity_note">Note</string>
+    <string name="prompTitle">Password : </string>
+    <string name="title_activity_about">À propos</string>
+    <string name="close">Fermer</string>
+	<string name="content_about">Notes© est une application développée dans le 
+	    cadre du cours 8INF241 dispensé à l\'Université du Québec à 
+	    Chicoutimi (UQAC).\n\nDéveloppeurs : Bapiste Lemarcis - Florentin Thullier</string>
+	<string name="saved_note">Note sauvegardée</string>
+	<string name="required_title">Le titre ne doit pas être vide !</string>
+	<string name="deleted_note">Note supprimée</string>
+	<string name="updated_note">Note modifiée</string>
+	<string name="alertValidBtn">Valider</string>
+	<string name="wrong_pwd">Mauvais mot de passe !</string>
+	<string name="alertCancelBtn">Annuler</string>
+	<string name="alertDeleteTitle">Suppression</string>
+	<string name="alertDeleteContent">Êtes-vous certain de vouloir supprimer cette note ?</string>
+	<string name="yes">Oui</string>
+	<string name="no">Non</string>
+	<string name="share">Partager</string>
+	<string name="menu_suppr">Supprimer</string>
+</resources>
